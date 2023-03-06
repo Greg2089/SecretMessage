@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Secret Message</string>
+    <string name="welcom_text">Welcome to the Secret Massage app!
+    Use this app to encrypt a secret massage. Click on the Start button to begin</string>
+    <string name="start">Start</string>
+    <string name="message_hint">Please enter your secret message</string>
+    <string name="next">Next</string>
+    <string name="ecrypt_text">Here is your encrypted message</string>
+</resources>
